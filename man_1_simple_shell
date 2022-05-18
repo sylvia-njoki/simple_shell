@@ -1,5 +1,5 @@
 B.\"Manpage for simple shell
-.\"Created by Sylvia and 
+.\"Created by Sylvia and Braddon Kipngeno Rotich
 
 .TH ROSYSH 1 "May 2021" - Simple Shell man page"
 
@@ -92,4 +92,4 @@ access(2), chdir(2), execve(2), _exit(2), exit(3), fflush(3), fork(2), free(3), 
 Rosysh\fR takes basic functionality of the \fBsh\fR shell. This man page is based on the man page bash(1)
 
 .SH AUTHORS
-Sylvia Njuguna and 
+Sylvia Njuguna and Braddon Kipngeno Rotich
